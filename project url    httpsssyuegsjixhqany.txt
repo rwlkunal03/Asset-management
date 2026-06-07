@@ -1,3 +1,0 @@
-project url    https://ssyuegsjixhqanyxhayq.supabase.co
-
-publishable key    sb_publishable_rslhaj5dvTIoxuY3E0GX3w_r-g-8dZd
